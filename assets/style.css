@@ -422,6 +422,10 @@ body {
     color: #333;
   }
 
+  .footer-links a:hover{
+    color:#ef2c25;
+  }
+
   .footer-text p {
     font-size: 20px;
     line-height: 1.35;
