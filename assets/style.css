@@ -64,11 +64,11 @@ body {
   font-size: 16px;
 }
 
-.bell {
+.bell,.user {
   font-size: 24px;
 }
 
-.hero {
+.main {
   height: 500px;
   margin: 15px;
   border: 1px solid #999;
@@ -76,12 +76,12 @@ body {
   align-items: center;
 }
 
-.hero-content {
+.main-content {
   width: 58%;
   padding: 35px;
 }
 
-.hero h1 {
+.main h1 {
   font-size: 42px;
   margin: 0 0 20px;
 }
@@ -276,17 +276,17 @@ body {
     width: 120px;
   }
 
-  .bell {
+  .bell,.user {
     font-size: 28px;
   }
 
-  .hero {
+  .main {
     height: 570px;
     margin: 10px 4px;
     align-items: flex-start;
   }
 
-  .hero-content {
+  .main-content {
     width: 100%;
     padding: 45px 25px;
   }
